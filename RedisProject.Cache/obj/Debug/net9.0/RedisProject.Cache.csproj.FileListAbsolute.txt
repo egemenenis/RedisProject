@@ -1,0 +1,12 @@
+C:\Users\egemen.ertas\Desktop\RedisProject\RedisProject.Cache\bin\Debug\net9.0\RedisProject.Cache.deps.json
+C:\Users\egemen.ertas\Desktop\RedisProject\RedisProject.Cache\bin\Debug\net9.0\RedisProject.Cache.dll
+C:\Users\egemen.ertas\Desktop\RedisProject\RedisProject.Cache\bin\Debug\net9.0\RedisProject.Cache.pdb
+C:\Users\egemen.ertas\Desktop\RedisProject\RedisProject.Cache\obj\Debug\net9.0\RedisProject.Cache.csproj.AssemblyReference.cache
+C:\Users\egemen.ertas\Desktop\RedisProject\RedisProject.Cache\obj\Debug\net9.0\RedisProject.Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egemen.ertas\Desktop\RedisProject\RedisProject.Cache\obj\Debug\net9.0\RedisProject.Cache.AssemblyInfoInputs.cache
+C:\Users\egemen.ertas\Desktop\RedisProject\RedisProject.Cache\obj\Debug\net9.0\RedisProject.Cache.AssemblyInfo.cs
+C:\Users\egemen.ertas\Desktop\RedisProject\RedisProject.Cache\obj\Debug\net9.0\RedisProject.Cache.csproj.CoreCompileInputs.cache
+C:\Users\egemen.ertas\Desktop\RedisProject\RedisProject.Cache\obj\Debug\net9.0\RedisProject.Cache.dll
+C:\Users\egemen.ertas\Desktop\RedisProject\RedisProject.Cache\obj\Debug\net9.0\refint\RedisProject.Cache.dll
+C:\Users\egemen.ertas\Desktop\RedisProject\RedisProject.Cache\obj\Debug\net9.0\RedisProject.Cache.pdb
+C:\Users\egemen.ertas\Desktop\RedisProject\RedisProject.Cache\obj\Debug\net9.0\ref\RedisProject.Cache.dll

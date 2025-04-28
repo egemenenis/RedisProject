@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A82C580-882F-48F8-9EBA-34453A9FE58F}|RedisProject.API\\RedisProject.API.csproj|c:\\users\\egemen.ertas\\desktop\\redisproject\\redisproject.api\\repositories\\productrepositorywithcachedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A82C580-882F-48F8-9EBA-34453A9FE58F}|RedisProject.API\\RedisProject.API.csproj|solutionrelative:redisproject.api\\repositories\\productrepositorywithcachedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A82C580-882F-48F8-9EBA-34453A9FE58F}|RedisProject.API\\RedisProject.API.csproj|c:\\users\\egemen.ertas\\desktop\\redisproject\\redisproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A82C580-882F-48F8-9EBA-34453A9FE58F}|RedisProject.API\\RedisProject.API.csproj|solutionrelative:redisproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A82C580-882F-48F8-9EBA-34453A9FE58F}|RedisProject.API\\RedisProject.API.csproj|c:\\users\\egemen.ertas\\desktop\\redisproject\\redisproject.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A82C580-882F-48F8-9EBA-34453A9FE58F}|RedisProject.API\\RedisProject.API.csproj|solutionrelative:redisproject.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A82C580-882F-48F8-9EBA-34453A9FE58F}|RedisProject.API\\RedisProject.API.csproj|c:\\users\\egemen.ertas\\desktop\\redisproject\\redisproject.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A82C580-882F-48F8-9EBA-34453A9FE58F}|RedisProject.API\\RedisProject.API.csproj|solutionrelative:redisproject.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A82C580-882F-48F8-9EBA-34453A9FE58F}|RedisProject.API\\RedisProject.API.csproj|c:\\users\\egemen.ertas\\desktop\\redisproject\\redisproject.api\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A82C580-882F-48F8-9EBA-34453A9FE58F}|RedisProject.API\\RedisProject.API.csproj|solutionrelative:redisproject.api\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A82C580-882F-48F8-9EBA-34453A9FE58F}|RedisProject.API\\RedisProject.API.csproj|c:\\users\\egemen.ertas\\desktop\\redisproject\\redisproject.api\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A82C580-882F-48F8-9EBA-34453A9FE58F}|RedisProject.API\\RedisProject.API.csproj|solutionrelative:redisproject.api\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A82C580-882F-48F8-9EBA-34453A9FE58F}|RedisProject.API\\RedisProject.API.csproj|c:\\users\\egemen.ertas\\desktop\\redisproject\\redisproject.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A82C580-882F-48F8-9EBA-34453A9FE58F}|RedisProject.API\\RedisProject.API.csproj|solutionrelative:redisproject.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20251FA-56FB-4028-A216-263A5B1AA629}|RedisProject.Cache\\RedisProject.Cache.csproj|c:\\users\\egemen.ertas\\desktop\\redisproject\\redisproject.cache\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20251FA-56FB-4028-A216-263A5B1AA629}|RedisProject.Cache\\RedisProject.Cache.csproj|solutionrelative:redisproject.cache\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A82C580-882F-48F8-9EBA-34453A9FE58F}|RedisProject.API\\RedisProject.API.csproj|c:\\users\\egemen.ertas\\desktop\\redisproject\\redisproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A82C580-882F-48F8-9EBA-34453A9FE58F}|RedisProject.API\\RedisProject.API.csproj|solutionrelative:redisproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A82C580-882F-48F8-9EBA-34453A9FE58F}|RedisProject.API\\RedisProject.API.csproj|c:\\users\\egemen.ertas\\desktop\\redisproject\\redisproject.api\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A82C580-882F-48F8-9EBA-34453A9FE58F}|RedisProject.API\\RedisProject.API.csproj|solutionrelative:redisproject.api\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A82C580-882F-48F8-9EBA-34453A9FE58F}|RedisProject.API\\RedisProject.API.csproj|c:\\users\\egemen.ertas\\desktop\\redisproject\\redisproject.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A82C580-882F-48F8-9EBA-34453A9FE58F}|RedisProject.API\\RedisProject.API.csproj|solutionrelative:redisproject.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.API\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "RedisProject.API\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.API\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "RedisProject.API\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:19:58.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.API\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "RedisProject.API\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.API\\Services\\IProductService.cs",
+              "RelativeToolTip": "RedisProject.API\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:19:43.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.API\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "RedisProject.API\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.API\\Services\\ProductService.cs",
+              "RelativeToolTip": "RedisProject.API\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:19:27.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepositoryWithCacheDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.API\\Repositories\\ProductRepositoryWithCacheDecorator.cs",
+              "RelativeDocumentMoniker": "RedisProject.API\\Repositories\\ProductRepositoryWithCacheDecorator.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.API\\Repositories\\ProductRepositoryWithCacheDecorator.cs",
+              "RelativeToolTip": "RedisProject.API\\Repositories\\ProductRepositoryWithCacheDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T14:13:42.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RedisService.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.Cache\\RedisService.cs",
+              "RelativeDocumentMoniker": "RedisProject.Cache\\RedisService.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.Cache\\RedisService.cs",
+              "RelativeToolTip": "RedisProject.Cache\\RedisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:49:54.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "RedisProject.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "RedisProject.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:21:40.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.API\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "RedisProject.API\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.API\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "RedisProject.API\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:13:42.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.API\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RedisProject.API\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.API\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "RedisProject.API\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:49:11.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RedisProject.API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.API\\Models\\Product.cs",
+              "RelativeToolTip": "RedisProject.API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:45:19.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.API\\Program.cs",
+              "RelativeDocumentMoniker": "RedisProject.API\\Program.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.API\\Program.cs",
+              "RelativeToolTip": "RedisProject.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:09:30.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.API\\appsettings.json",
+              "RelativeDocumentMoniker": "RedisProject.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\RedisProject\\RedisProject.API\\appsettings.json",
+              "RelativeToolTip": "RedisProject.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T12:53:11.243Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
